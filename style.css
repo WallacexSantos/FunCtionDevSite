@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    padding: 20px;
 }
 
 nav {
@@ -33,8 +34,15 @@ nav a:hover {
     margin-top: 20px;
 }
 
-body {
-    background-color: black;
+.botao {
+    background-color: rgb(8, 94, 109);
     color: white;
-    padding: 20px;
+    text-decoration: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+section {
+    margin-top: 100px;
 }
