@@ -18,3 +18,23 @@ nav a {
 nav a:hover {
     color: rgb(8, 94, 109);
 }
+
+.hero {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.hero h1 {
+    font-size: 60px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
